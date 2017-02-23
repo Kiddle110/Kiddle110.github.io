@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+		
+		<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+		<link href="stylesheet.css" rel="stylesheet">
+	</html>
+	<body>
+	
+	<div class="container">
+		<div class="content">
+	
+	<b><h1>Dewey's Recovery</h1></b>
+	<i><b><h2>My Recovery</b></h2></i>
+	<img src= "jen elephant - Copy.jpg">
+	<b><h2><i>Dewey Miller</i></h2></b>
+	<i><b><h2>Mom's Updates:</h2></b></i> <a href=https://www.caringbridge.org/visit/chrisclemens/journal> Caring Bridge Updates</a>
+	 
+	<p>This is my website.  [Bio], [Write more later]</p> 
+	<i><b><h2>LINKS:</h2></b></i>
+	<il>
+	<li><A HREF="C:\Users\Chris\Desktop\Website\Months 1-6">Months 1-6</A></li>
+	<li><A HREF="C:\Users\Chris\Desktop\Website\Months 6-12">Months 6-12</A></li>
+	<li><A HREF="C:\Users\Chris\Desktop\Website\Post Recovery">Post Recovery</A></li>
+	<li><A HREF="C:\Users\Chris\Desktop\Website\Food For Thought">Food For Thought</A></li>
+	</il>
+	
+		</div>
+	</div>
+	
+	
+	
+	</body>
+		
+	
+</html>
